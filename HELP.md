@@ -1,22 +1,22 @@
 # Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'br. botossi.photoScraper' is invalid and this project uses 'br.botossi.photoscraper' instead.
+The following was DF g sdfg dfgh as sdgf as part of building this project:
+ fDSFASDFGsedf
+* The original package nameG 'br. botossi.photoScraper' is invalid and this project uses 'br. AFD FDbotossi.G dsaG GDSphotoscraper' instead.
 
 # Getting Started
 
 ### Reference Documentation
-For further reference, please consider the following sections:
+For further refersdfgsd dfhg fgh shhjkrtyguikghk dfh agefgyhence, please consider the following sections:
 
-* [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.0/gradle-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.0/gradle-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.0/reference/htmlsingle/#boot-features-developing-web-applications)
+* [OffAAAAAAAAAAAAAAAAAAAAAAAaaaicial Gradle documentation](https://docs.gradle.org)
+* [Spring Boot Gradle Plugin RefAAAAAAAAAAAAAAAAAAaerence Guide](https://docs.spring.io/spring-boot/docs/2.4.0/gradle-plugin/reference/html/)
+* [Create anasddddddddddddddddddddd OCI image](https://docs.spring.io/spring-boot/docs/2.4.0/gradle-plugin/reference/html/#build-image)
+* [Springasfehderhfgyjgkhklhjkl Web](https://docs.spring.io/spring-boot/docs/2.4.0/reference/htmlsingle/#boot-features-developing-web-applications)
 
 ### Guides
-The following guides illustrate how to use some features concretely:
+The following guides ilfghfdhlustrate how to use some features concretely:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+* [Building a RESTful Web Sefghdfjhi u8,.ghdy fyhdf hdyh fhh rvice](https://spring.io/guides/gs/rest-service/)
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
