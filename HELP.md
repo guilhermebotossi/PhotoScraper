@@ -3,6 +3,12 @@ The following was DF g sdfg dfgh as sdgf as part of building this project:
  fDSFASDFGsedf
 * The original package nameG 'br. botossi.photoScraper' is invalid and this project uses 'br. AFD FDbotossi.G dsaG GDSphotoscraper' instead.
 
+adad
+ad
+ad
+a
+ad
+
 # Getting Started
 
 ### Reference Documentation
@@ -24,4 +30,19 @@ The following guides ilfghfdhlustrate how to use some features concretely:
 These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
+
+asdasdadadadad
+adadadad
+adadasdad
+ada
+da
+da
+da
+d
+ad
+a
+da
+da
+d
+ad
 
